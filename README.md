@@ -117,6 +117,12 @@ Java运行依赖JVM--JVM是什么--JVM长什么样--堆栈方法寄存器(JVM堆
 - [Web：初步理解 Tomcat](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=2b72762f-0123-4d8c-80d5-c911d9589fe3)
 - [Web：Servlet 体系结构与 ServletContext，ServletConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
 
+#### DB
+
+- <a href="http://www.cnblogs.com/bnbqian/p/5623083.html">Memcached vs Redis</a>
+- <a href="http://www.cnblogs.com/bnbqian/p/5623480.html">InnoDB VS MyISAM</a>
+
+
 ## 杂谈
 - [杂谈：NodeJs 和 Servlet 的对比](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5f7855c5-29b5-4c8a-bed8-601b6203d4b1)
 
