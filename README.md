@@ -121,6 +121,9 @@
 - <a href="http://www.cnblogs.com/bnbqian/p/5623083.html">Memcached vs Redis</a>
 - <a href="http://www.cnblogs.com/bnbqian/p/5623480.html">InnoDB vs MyISAM</a>
 
+#### 搜索引擎
+
+![](http://images2015.cnblogs.com/blog/161453/201606/161453-20160630141813343-1882944900.png)
 
 ## 杂谈
 - [杂谈：NodeJs 和 Servlet 的对比](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5f7855c5-29b5-4c8a-bed8-601b6203d4b1)
