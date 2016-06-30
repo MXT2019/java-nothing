@@ -1,6 +1,6 @@
 # MineKnowContainer
 
-个人知识小仓库
+个人知识小仓库。
 
 ## Java
 #### Java JVM
@@ -11,6 +11,9 @@
 - [Java JVM：垃圾收集器（转载）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=d85b8fb5-cefe-47cc-9e2d-193009d9e039)
 - [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=f3253780-2b7a-4f89-b675-2784bfee1055)
 - [Java JVM：编译加载机制与自定义类加载器](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=b3adf837-ab93-4cec-8895-63a8904b0596)
+
+Java运行依赖JVM--JVM是什么--JVM长什么样--堆栈方法寄存器(JVM堆，JVM方法栈，本地方法栈，JVM方法区)--最重要的是JVM堆--JVM堆结构--新生代（EDEN,S0,S1区），老生代--有了JVM加载类--创建对象多了--JVM满了--GC（Minor GC和Full GC）--清理不可达的对象（可达性分析算法）--清理手段（复制清理，标记整理压缩）--垃圾收集器（并发收集器，并行收集器）
+
 
 #### Java多线程
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=ce2122dd-e21d-4514-abb7-70760a495be9)
@@ -24,10 +27,14 @@
 - [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=913474ec-8b56-4bfd-808f-3ff667e5a634)
 - [Java 多线程：线程池实现原理](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=4a206677-c3c5-47a6-9144-0c28d95d9123)
 
+多线程的问题(主内存和本地内存之间不同步)--禁止操作(Synchronized,Lock)--禁止缓存(Volatile)--锁性能提升(CAS,AQS)--应用（线程池）
+
 ####  Java集合
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=e2d86b1a-99fd-42c8-bf47-7de763aafd75)
 - [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=96c1f402-bba7-4441-8028-a62e0d11f5d6)
 - [Java 集合：HashSet，HashTable，以及 ConcurrentHashMap 概念](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=a8c94c5e-7844-48da-9683-4d5f33419ad4)
+
+列表(动态数组，链表)--HashMap--HashSet
 
 #### Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=9f193d4e-2897-422b-a341-8a400fa0198c)
@@ -117,8 +124,6 @@
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
-## 其他
-如果您觉得对您有用，so.... 嘿嘿嘿 (*^__^*)
+## 感谢
 
-![image](http://7xrzlm.com1.z0.glb.clouddn.com/weixin.png?imageView/2/w/200/h/200)  && 
-![image](http://7xrzlm.com1.z0.glb.clouddn.com/zhifubao.jpg?imageView/2/w/200/h/200)
+原始项目地址：<a href="https://github.com/pzxwhc/MineKnowContainer">pzxwhc</a>
