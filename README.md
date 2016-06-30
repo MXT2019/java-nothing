@@ -12,8 +12,7 @@
 - [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=f3253780-2b7a-4f89-b675-2784bfee1055)
 - [Java JVM：编译加载机制与自定义类加载器](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=b3adf837-ab93-4cec-8895-63a8904b0596)
 
-Java运行依赖JVM--JVM是什么--JVM长什么样--堆栈方法寄存器(JVM堆，JVM方法栈，本地方法栈，JVM方法区)--最重要的是JVM堆--JVM堆结构--新生代（EDEN,S0,S1区），老生代--有了JVM加载类--创建对象多了--JVM满了--GC（Minor GC和Full GC）--清理不可达的对象（可达性分析算法）--清理手段（复制清理，标记整理压缩）--垃圾收集器（并发收集器，并行收集器）
-
+![](http://images2015.cnblogs.com/blog/161453/201606/161453-20160630115052437-115039116.png)
 
 #### Java多线程
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=ce2122dd-e21d-4514-abb7-70760a495be9)
@@ -120,7 +119,7 @@ Java运行依赖JVM--JVM是什么--JVM长什么样--堆栈方法寄存器(JVM堆
 #### DB
 
 - <a href="http://www.cnblogs.com/bnbqian/p/5623083.html">Memcached vs Redis</a>
-- <a href="http://www.cnblogs.com/bnbqian/p/5623480.html">InnoDB VS MyISAM</a>
+- <a href="http://www.cnblogs.com/bnbqian/p/5623480.html">InnoDB vs MyISAM</a>
 
 
 ## 杂谈
