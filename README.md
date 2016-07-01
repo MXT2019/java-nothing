@@ -33,7 +33,7 @@
 - [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=96c1f402-bba7-4441-8028-a62e0d11f5d6)
 - [Java 集合：HashSet，HashTable，以及 ConcurrentHashMap 概念](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=a8c94c5e-7844-48da-9683-4d5f33419ad4)
 
-列表(动态数组，链表)--HashMap--HashSet
+List(动态数组，链表)--HashMap(数组+链表+红黑树)--HashSet(HashMap)
 
 #### Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=9f193d4e-2897-422b-a341-8a400fa0198c)
