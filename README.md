@@ -1,4 +1,4 @@
-# MineKnowContainer
+# Nothing but java
 
 个人知识小仓库。
 
