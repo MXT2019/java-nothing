@@ -127,7 +127,7 @@ List(动态数组，链表)--HashMap(数组+链表+红黑树)--HashSet(HashMap)
 
 ## 杂谈
 - [杂谈：NodeJs 和 Servlet 的对比](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5f7855c5-29b5-4c8a-bed8-601b6203d4b1)
-
+- [面试](http://www.cnblogs.com/bnbqian/p/5769707.html)
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
